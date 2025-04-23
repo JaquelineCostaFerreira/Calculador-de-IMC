@@ -4,7 +4,7 @@ Este é um projeto simples de **calculadora de IMC (Índice de Massa Corporal)**
 
  📌 O que é IMC?
 
-O IMC é uma fórmula que ajuda a identificar se o peso está adequado em relação à altura de uma pessoa. A fórmula é:
+O IMC é uma fórmula que ajuda a identificar se o peso está adequado em relação à altura de uma pessoa. A fórmula é: IMC = peso / (altura * altura)
 
 ---
 
